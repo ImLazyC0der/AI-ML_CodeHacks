@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hacktoberfest2021 <br></h1>
+<h1 align="center">Hacktoberfest2022 <br></h1>
 <h4 align=center>Hacktoberfest is a month-long celebration of open source software sponsored by Digital Ocean, Intel, and DEV.</h4>
 
 
@@ -16,7 +16,7 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 # Rewards🥇
 - For beginners this is the great opportunity to dive in the pool of open source.
 - Laptop stickers
-- Hacktoberfest T-shirt👕/Tree🌱(Tree planted in your name and help make Hacktoberfest 2021 more carbon neutral) 
+- Hacktoberfest T-shirt👕/Tree🌱(Tree planted in your name and help make Hacktoberfest 2022 more carbon neutral) 
 
 # Rules📃
 🏷️To earn your Hacktoberfest reward, you must register and make four valid pull requests (PRs) between October 1-31 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with the project’s code of conduct, you will be ineligible to participate.
